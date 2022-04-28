@@ -2,7 +2,7 @@ define(['js/lib/d3.min', 'js/btplanets','js/node_modules/d3-delaunay/dist/d3-del
     //I really have no idea why this code is set up like this but might as well keep it consistent
     return {
         points: [],
-        boundaries:[-700,-070,700,700],
+        boundaries:[-700,-700,700,700],
         pointToState: new Map(),
         init: function() {
         },
