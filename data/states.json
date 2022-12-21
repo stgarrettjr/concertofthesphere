@@ -24,7 +24,7 @@
     {"name":"defhes-consolidant","color":"#6eeb34"},
     {"name":"federated-suns","color":"#e6d630"},
     {"name":"solar-union","color":"#0335fc"},
-    {"name":"kilbourne-suns-concord","color":"#c5eed2"},
+    {"name":"kilbourne-suns-concord","color":"#208c3e"},
     {"name":"brethren-of-the-stars","color":"#66ccff"},
     {"name":"lancaster-authority","color":"#ff00a2"},
     {"name":"rengo-directorate","color":"#b3d2b3"},
@@ -57,5 +57,6 @@
     {"name":"circinus-federation","color":"#877fef"},
     {"name":"royal-federation","color":"#b300b5"},
     {"name":"new-commonwealth","color":"#666666"},
+    {"name":"grand-duchy-of-zion","color":"#ff8800"}
     {"name":"free-traders-union","color":"#ff8800"}
 ]
